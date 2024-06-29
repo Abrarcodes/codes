@@ -1,3 +1,3 @@
 # codes
-These are the codes done by me
+These are the codes done by me.
 Author - Abrar Kachari
